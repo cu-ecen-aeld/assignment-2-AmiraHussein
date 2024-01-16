@@ -7,8 +7,8 @@ then
  echo "You should pass 2 arguments"
  exit 1
  else
- filesdir=$1
- searchstr=$2
+  filesdir=$1
+  searchstr=$2
 fi
 
 test -d $filesdir

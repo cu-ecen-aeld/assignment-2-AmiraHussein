@@ -7,8 +7,8 @@ then
  echo "You should pass 2 arguments"
  exit 1
  else
- writefile=$1
- writestr=$2
+  writefile=$1
+  writestr=$2
 fi
 
 
